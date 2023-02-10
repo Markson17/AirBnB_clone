@@ -24,4 +24,4 @@ AirBnB is an online marketplace where homeowners can put their homes up for leas
 ### Licence
 This project is unlicenced.
 
-> Authored by Favour Markson.
+> Authored by Favour Markson and Paschal Nnamani.
